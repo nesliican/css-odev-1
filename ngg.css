@@ -1,0 +1,24 @@
+.a {
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(247, 183, 8);
+    font-size: 50px;
+    text-align: center
+}
+ul {
+    color: rgb(19, 18, 17);
+    font-size: 30px;
+    list-style-position: inside;
+    text-align: center
+}
+
+.b {
+    color: rgb(1, 124, 77);
+    font-size: 30px;
+    text-align: center;
+    list-style-position: inside;
+}
